@@ -1,0 +1,5 @@
+{
+  "name": "Windows Run Command Quiz",
+  "description": "A bilingual (English/Arabic) quiz application to help users learn and memorize Windows Run commands and their functions.",
+  "requestFramePermissions": []
+}
